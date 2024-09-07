@@ -1,0 +1,6 @@
+core/__pycache__/
+core/migrations/
+.idea/
+db.sqlite3
+nanobook/.env
+.venv/
